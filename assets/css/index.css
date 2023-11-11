@@ -93,3 +93,9 @@ footer {
         transform: rotateZ(360deg)
     }
 }
+#music {
+  position:fixed;
+  z-index:-1;
+  opacity:0;
+  pointer-events:none;
+}
