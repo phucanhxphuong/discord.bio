@@ -33,8 +33,4 @@ const STATUS = {
     color: "#6e7985",
   },
 };
-window.onload = function () {
-  const music = document.getElementById("music");
-  
-  music.play();
-}
+
